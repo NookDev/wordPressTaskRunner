@@ -35,7 +35,7 @@
     "watch": "npm run server-sync && npm run watch:css && npm run watch:php && npm run watch:js && npm run watch:images",
     "postinstall": "npm run build watch"
   },
-  "author": "Jamie Polson-Brown",
+  "author": "Nook Digital",
   "license": "UNLICENCED",
   "devDependencies": {
     "autoprefixer": "^6.5.0",
